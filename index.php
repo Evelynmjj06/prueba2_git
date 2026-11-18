@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lista de Tareas - GitHub Pages</title>
+    <title>Prueba de GitHub  Utiliza esta lista</title>
     <style>
         body { font-family: Arial, sans-serif; background: #f0f2f5; max-width: 500px; margin: 40px auto; padding: 20px; }
         .card { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
